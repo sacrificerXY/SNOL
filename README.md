@@ -50,7 +50,7 @@ SNOL uses the prefix notation and C’s precedence and associativity
 rules. Nested form is not allowed. Note that each of the expressions (expr1, expr2) is a
 variable name or a value.
 
-| Operation | SNOL code | C code equivalen |
+| Operation | SNOL code | C code equivalent |
 |---|---|---|
 |Addition|ADD expr1 expr2| expr1 + expr2|
 |Subtraction|SUB expr1 expr2| expr1 - expr2|
