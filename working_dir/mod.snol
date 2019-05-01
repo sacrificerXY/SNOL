@@ -1,0 +1,6 @@
+SNOL
+    BEG a
+    BEG b
+    INTO c IS MOD a b
+    PRINT c
+LONS

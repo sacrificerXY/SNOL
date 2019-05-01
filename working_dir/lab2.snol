@@ -1,0 +1,23 @@
+SNOL
+    INTO num IS 0
+    INTO res IS 0
+    
+    BEG msg
+    BEG msg
+    BEG msg
+    
+    INTO num IS 5
+    INTO res IS MULT num num
+    PRINT res
+    PRINT res
+    PRINT res
+    
+    INTO res IS MULT res res
+    INTO res IS MOD res num
+    PRINT num
+    PRINT res
+    PRINT res
+    PRINT res
+    
+    PRINT msg
+LONS

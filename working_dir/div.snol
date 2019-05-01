@@ -1,0 +1,6 @@
+SNOL
+    BEG a
+    BEG b
+    INTO c IS DIV a b
+    PRINT c
+LONS

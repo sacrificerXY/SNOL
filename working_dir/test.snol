@@ -1,0 +1,4 @@
+SNOL
+    INTO res IS MULT num num
+    PRINT fish
+LONS

@@ -1,0 +1,11 @@
+SNOL
+INTO nu43m IS 5
+INTO nu43m IS 5.4357
+INTO nu43m IS 543.43.2
+INTO nu43m IS 00065
+INTO res? IS MULT num num      
+INTO res IS MULT res res      
+INTO res IS MOD res num      
+PRINT num      
+PRINT res 
+LONS

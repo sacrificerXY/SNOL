@@ -1,0 +1,55 @@
+
+SNOLL
+
+
+    BEG var
+    BEG 0
+    BEG 0.5a
+    BEG 0.5a
+    BEG 0.5a
+    BEG ???
+    
+    PRINT var
+    PRINT 0
+    PRINT 0.5
+    PRINT ???
+
+    
+    0xinvalidWord
+    
+    
+  
+    INTO 0 IS 0
+    INTO 0.1 IS 1
+    INTO var1 IS 0xFISH
+    INTO var2 IS ADD BEG SNOL
+    INTO 0.4 IS ADD BEG SNOL
+    INTO 0.4 1 ADD BEG SNOL
+    INTO var3 IS SUB MULT DIV
+    INTO var4 IS MUL 3 var1
+    
+    SNOL
+    
+    BG msg
+    BEG 2
+    BEG 0.2
+    BEG :)
+    
+    PRINT ADD
+    PRINT SNOL
+    PRINT ????
+    PRINT MUL 3 4
+    
+    INTO num IS 5
+    INTO res IS MULT num num
+    PRINT res
+    
+    INTO res IS MULT res res
+    INTO res IS MOD res num
+    PRINT num
+    PRINT res
+    
+    PRINT msg
+LONS
+
+0ImLastButNotLONS

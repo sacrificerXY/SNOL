@@ -1,0 +1,54 @@
+SNOL
+    INTO a IS 0
+    INTO fact IS 1
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+    
+    INTO a IS ADD a 1
+    INTO fact IS MULT fact a
+    PRINT a
+    PRINT fact
+LONS

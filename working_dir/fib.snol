@@ -1,0 +1,18 @@
+SNOL
+    BEG a
+    BEG b
+    
+    PRINT a
+    PRINT b
+    
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+    INTO b IS ADD a b INTO a IS SUB b a PRINT b
+LONS
