@@ -64,7 +64,6 @@ Source code:
 SNOL
  INTO num IS 0
  INTO res IS 0
- *ask for input value*
  BEG msg
  INTO num IS 5
  INTO res IS MULT num num
