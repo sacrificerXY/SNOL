@@ -2,7 +2,7 @@
 
 The Simple Number-Oriented Language (SNOL) is a programming language design based from the
 Floating-Point Oriented Language (FLOPOL) design used for IS 214 (1st Sem, AY2014-2015) of the
-UP Open University. SNOL deals with integer- and string-type values only. This SNOL design is for
+UP Open University. SNOL deals with integer-type and float-type values only. This SNOL design is for
 CMSC 124 implementation by BSCS students of UP Mindanao.
 
 ## Language Specifications
